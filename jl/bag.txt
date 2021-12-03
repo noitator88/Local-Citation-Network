@@ -1,0 +1,333 @@
+         PHYSICAL REVIEW B                 VOLUME 49, NUMBER 10                     1 MARCH 1994-II
+
+                          Critical current of aone-dimensional  superconductor
+
+                                               Philip F. Bagwell
+                        Purdue University, School of Electrical Engineering, West Lafayette, Indiana $7907
+                                            (Received 26 August 1993)
+                     We solve the Bogoliubov-de Gennes equations for aclean, one-dimensional superconductor in the
+                   presence of super6uid Bow. The maximum electrical current occurs when the super8uid velocity v,
+                   equals the Landau depairing velocity B/pF, where 4is the pairing potential of the superconductor
+                   and pF is the Fermi momentum.  The resulting critical current is approximately 2/s times smaller
+                   than the value eb/5 recently predicted for asuperconducting  point contact. The "discretized"
+                   critical current of (2/s)(eE/5) arises when all the conducting electrons are forced to drift at the
+                   Landau depairing velocity.
+
+
+
+
+
+                      I. INTRODUCTION                 The factor of 2/n in this heuristic argument  was dis-
+                                                        missed in Ref. 10 both as inconsequential  and likely to
+           All the phase "bound. aries of superconductors  are set by   move closer to unity in amore detailed calculation. s How-
+         "pair-breaking.  If electronic paths in the superconduc-    ever, we show here that the correct numerical factor is
+         tor are no longer efFectively coupled to their time-reversed    indeed 2/7r. The actual numerical prefactor in Eq. (2)
+         paths, the individual  Cooper pairs reduce to ordinary    can probably be distinguished  in future experiments on
+         electrons and the material becomes normal. For example,    narrow superconductors  and point contacts.
+         the critical temperature  of an ordinary, weak-coupling,      Our calculation also impacts the study of mesoscopic
+         clean superconductor~  can be viewed as acompetition    superconductor-normal-superconductor    (SNS)junctions.
+         between the thermal dephasing length LT =vF(h/ksT)    In ashort SNS junction, where the length Lof the nor-
+         and the pair size (o —— vF(5/2A). When the temperature    mal segment obeys
+                                                                      —L «—  (o, the critical current is sup-
+         is large enough so that thermal dephasing occurs before   posedly  evF/2(o    eb, /fe. However, if the length of
+         the pair orbit can be completed, the material becomes   the normal segment is not negligible, the critical current
+         normal at ksT,                                  is presumably  suppressed to evF/(L +2(o); for exam-
+           Pair breaking also places an upper theoretical limit on   ple, see Ref. 10. Inserting anormal metal region into a
+         the critical current of asuperconductor. 2 ~ If the electron   superconductor  enhances the depairing of ordinary and
+         wave vector is k and the wave vector for the collective   time-reversed  electronic paths, suppressing  the critical
+         drift motion (superfluid motion) of the electrons is        current. Therefore, ashort SNS junction cannot q, the                                         permit
+         ordinary k and —k pairing must be generalized to pair the   a50'Po larger critical current than auniform superconduc-
+         states (k+                                      tor. Transport calculations q) and —( k+ q). This new pairing introduces                         applying the Bogoliubov&e
+         an oscillation frequency u„= Akq/m into the relative    Gennes (BdG) or Gorkov equations to SNS junctions
+         motion of the &ee electron two-particle wave function.    or NS interfaces     may need to be modi6ed in some
+         If this wave function changes sign over the pairing time   way to obtain physically reasonable results.
+         5/b, , so that u„(5/b, )  1, there isessentially destructive
+         interference of the pair at avelocity
+                       =      =                             II. ELECTRICAL CURRENT FLOW vg  hqg/m   b, /pF,
+         where pF =hkF =/2m@ is the Fermi momentum  and     The Bdc equations are
+         p, is the Fermi energy. Cooper pairs therefore "depair" if
+         forced to drift too rapidly.
+          The Landau depairing velocity vg bears on the re-
+         cently predicted  'discretization" of the critical current
+         in a superconducting  point contact to eE/h.  Refer-
+         ence 10 pointed out that acritical current of magnitude    where the one-electron eb, /5 follows naturally from Landau depairing in aone-
+
+                                                                        —, Hamiltonian H(x) is
+
+         dimensional  superconductor.  The critical current of a                        dnarrow superconductor  is      Isimply     envp, where the              H(x) =        +V(z),          (4)
+        quasiparticle  density is n   2kF jn in one dimension.
+        Using (1) we have                                 with V(x) =0. Following Ref. 3, we take the pairing
+                                                       potential b, (x) to be k
+                                  i~r   »       (2)                b. (z) =b, e 's e'~, &
+
+         0163-1829/94/49(10)/6841(6)/$06. 00                49  6841               1994 The American Physical Society         6842                                 PHILIP F. BAGWELL
+
+         where 4is areal number.  The traveling wave in the     J-. (*) = —Im(u~(z) l&u~(z)j) =h(k +q) IAI'  (») pairing potential b, (z) imposes asuperfluid drift velocity
+         v, =hq/m on the quasiparticles.
+           Solutions of Eq. (3) have the form                   and
+
+               (u(z) l   f Ae'&*e'4'/    '                 J-. (*) = —                   —
+                                                                  ™(v~(z)l7»(z)j) =h, (k  q)
+
+               I( v(*) )I  I( Be —'&*e —*4'/' )            (6)
+                                                       The equilibrium Fermi occupation factor for the state k
+         where the A and Bdepend on k and q. The resulting    ls                      q/RENT)
+         energy level spectrum is                                                  1
+                                                                        ] +e(gJ, E„+, =(hk)(hq/m) +  E„'+ 6',       (7)
+                                                         The total particle current II and electrical current Iq
+         where the "average" or "center of mass"8 energy E~ is    carried by the states (6) we therefore find as
+
+                           g2k2  g2q2                             (hql   —E~(k,  =                                 Ip =   —  dk 2 q)       +    —y, .                        I (        f(k) m) I  27I'
+
+          The spectrum from Eq. (7) is plotted in Fig. 1. (The            +2  dk f   fhkl —(k— )     (I A I' —IBI')
+         pairing potential is taken to be 4=10 meV, the Fermi                 2m    I (m)                 (14) I
+
+         energy is p =E~ ——100 meV, and mis the free electron    and mass. ) The main efFect of superfluid flow is to shift the
+         quasiparticle levels by an amount (hk)(hq/m).  Figure 1             6hq)   dk Iq =   —  —2e          (f(k)IAI'+ also shows that the depairing condition occurs when the              m)               tl —f(k)ALIBI') I   I  2n. q
+         quasiparticle energy gap is reduced to zero.                               —(hk1 —The quasiparticle current density J~ and electrical cur-           +2e    f(k)      .               (15) 2x rent                                                               I (mj I
+            density Jq are shown in the Appendix to be
+
+                              J .                       For the electronlike branch the factors IAI and IBI are
+                Jp(z) = ) .f(k) (  (z) — J .(z) )                            gl+ (b, /E&)2+ 1
+                                                                        2/1+ (6/E~)'           (16)
+
+
+           Jq(z) = e):(f(k) J .                           and (z) —[I —f(k)j J" (z))   (1o)
+                                                                       gi+ (b, /E„)2 — i
+         The sum in Eq. (10) can run over either the electronlike                     2g]. +(a/E„)2
+         branch, the holelike branch, the upper +branch, or the
+         lower —branch of the dispersion law. The sum in Eq. (9)   The factor IA,  —IB, = 1/gl+ (6/EA)2 is therefore runs over the electronlike branch. The J„„(z) and J„„(z) zero at the Fermi I
+                                                                     wave I vector, and rises rapidly to nearly in Eqs. (9) and (10) are the Schrodinger currents carried   unity away from the Fermi wave vector. Note IAI +by the waves ug(z) and vi, (z), namely,                 IBI' = i.
+                                                         We graph the particle current Ip and the electrical
+                                                       current Iq versus superfluid velocity v, =hq/m at zero
+                     1. 0                                temperature in Fig. 2. The particle
+
+                                                                                )  current Ip increases
+                                                       linearly with the superfluid velocity when v, &vp, satu-
+                                                       rating at (2/m)(b, /h) when v,  vg. The electrical cur-
+                                                       rent Ig increases nearly linearly with superBuid velocity
+                r4                                     until v, =0. 0                                         v~, reaches amaximum value slightly smaller
+                                                        than (2/ir)(eb, /h) when v, =vz, and decreases abruptly
+                                                        when v, &vg.
+                                                         We can understand the behavior of II and Ig in Fig. 2
+                                                       byexamining Eqs. (14) — (17). When v, &vg, the elec-
+                                                                                                 k)— -1. 0                                tron distribution is symmetric such that f(k) = f(
+                          -1.                           In that case, only the first term in Eqs. (14) — (15) 0    0. 0    1. 0              contribute to II and Ig. Thus, Ip is Wavevector                                                   simply the su-
+                                     k/kF               perfluid velocity hq/m times the quasiparticle  density
+          FIG. l.                                       PQuasiparticle energy level spectrum for aclean        2kp/n, while Ig is the superfluid velocity times
+         superconductor  subject to a                        the electrical charge density Q. (P and Q are defined
+               =               super6uid  6ovr of velocity
+         v, =vq  b, /pp (solid line) and v, =0 (dashed line). The   in the Appendix).  Figure 2 asserts that Q  eP. The
+         quasiparticle energy gap is reduced to zero at the depairing    heuristic argument in the introduction leading to Eq. (2)
+         velocity e, =vz.                                   therefore applies perfectly to the particle current Bow,         49                CRITICAL CURRENT OF A ONE-DIMENSIONAL SUPERCONDUCTOR               6843
+
+
+                    0. 8                                  For the upper branch of the dispersion curve we 6nd
+
+                                                                    2B'A =
+                                                                                ++2             (20)
+                  4k
+
+                    04                                  so that the self-consistency condition (18) for 6=A(q),
+                                                         applying Eq.(5), is
+                  C5
+                                                                  dk        1
+                                                                     gE       ~, (k )    ()~
+
+                    0. 0 0. 0     0. 5      1. 0                 The pair potential  h(q) versus superfluid
+                                                                                           (  velocity
+                       Superfluid velocity v, /v,             v,   =/vg   q/qg is shown in Fig. 3. For v,   vg, and at
+                                                         zero temperature,  6is basically unafFected by the super-
+                                                         Quid Qow. Despite their energy shift, all regions of the FIG. 2. Electrical current Ig (solid line) and particle cur-   energy band continue to support the pairing potential rent Iz (dashed line) versus super6uid velocity v, .The par-    with essentially the same weight as in the absence of aticle current saturates at (2/z)(E/5) above the depairing ve-   superQuid Bow. At the depairing velocity, the states near locity e, & eg, while the electrical reaches amaximum slightly    k    kF o— ppose the contribution to the integral in (21) less than (2/z)(eE/h) at v, =vq.                       &om the rest of the band. The large density of quasi-
+                                                         particle states near k   —k~ makes their contribution
+                                                         outweigh that
+                                                             =     from the rest of the energy band, so that
+         and also seems to                                 at T  0 Eq. apply quite well to the electrical cur-               (21) has no solution for asuper8uid flow
+         rent Bow.                                        faster than the depairing velocity. The decrease in 6at
+           For velocities greater than the depairing               avelocity, some     finite temperature  (T =0, 25, 50, and 75 K) is also
+         k states near the Fermi wave vector k =              shown in Fig. 3. ky are forced
+         above the Fermi level pand become unoccupied, while     Rogers s suses Eq. (21) to show that the superfluid
+         new occupied states are added below pnear k =—k~.   velocity can slightly exceed the depairing velocity in a
+         The last term in Eqs. (14) and (15) then becomes im-   bulk superconductor.  Rogers therefore finds gapless su-
+         portant, as f(k) g f( —k). The particle current Ip does   perconductivity  is possible for athree-dimensional  super-
+         not suffer Rom the occupation of reverse moving elec-   conductor. Gapless superconductivity  does not occur in
+         tron states near k =—k~, since their contribution to I~   atwo-dimensional  layer.
+         is suppressed                                        In by thefactor    —                        Fig. 4we plot the currents IJ and Iq versus super- (A~2  ~B~2  0in the second
+         term of Eq. (14). The first term in Eq. (14) still sup-   Huid velocity hq/m at afinite temperature, with the pair-
+         ports the particle current Ip =(2/7r) (b, /fc). Incontrast,    ing potential 6(q, T) determined  self-consistently  from
+         the electrical current Iq is drastically reduced when ad-   Eq. (21). The temperature  dependence of the electri-
+                                                         cal current ditional states                                              Iq versus near                                                 phase gradient (oVQ(z), where the k =—ky become occupied, as the   position-dependent second term                                                      phase is in Eq. (15) produces a                                         P(x) = P+ 2qz, is similar large and negative    to thecontribution to Ig.                                      temperature dependence of the Josephson current
+                                                         versus the phase difference between the two superconduc-
+                                                         tors in an SNS junction. s io The particle current How Jp
+                     III. SELF-CONSISTENT
+                     PAIRING POTENTIAL
+                                                                     1. 0
+           If the pairing potential 4
+
+                       )       remains 6nite above the de-
+         pairing velocity, Fig. 2 indicates that asupercurrent  can
+         still Qow for v,   vg. To see if such a "gapless" su-
+         perconductor is possible, we examine the self-consistency
+         relation  for the pairing potential b, (x), namely,
+
+                                                   (18)
+
+
+         In Eq. (18)  is the pairing interaction strength,                      0. E&+ is                0~g~                                                  0. 0     0. 5     1. 0 the quasiparticle energy &om Eq.(7), and the siimmation                  Superfluid velocity v, /v„ over wave numbers k includes only energies on the upper
+         branch of the dispersion curve in Fig. 1. Using the states     FIG. 3. Pairing potential A(q, T) versus super8uid veloc-
+         (6) we have                                       ity at temperatures  T =0, 25, 50, and 75 K. b. (q, 0) re-
+                                                         mains constant up to the Landau depairing velocity, then
+              E(x) =(g() [1 —2f(E& )]B'Ae 'v e'~ .          drops abruptly to zero. This "depairiug" transition in A(q, 0)
+                                                         sets the critical current phase boundary.                                               PHILIP F. BAGWELL
+
+                     0. 8                                  We take the sum P& in Eqs. (22) and (23) to run over
+                                                         the electronlike states. Minimizing the &ee energy Fwith
+                                                         respect to the occupation factor fs gives Eq. (13), proving
+                                                         that the standard equilibrium  Fermi occupation factor
+                                                         with the energies from Eq. (7) is the correct occupation
+                     0. 4                                  factor for the quasiparticle states.
+                                                           The Helmholtz free energy of both normal (F„) and
+                                                         superconducting  (F, ) states is shown in Fig. 5. The free
+                                                         energy is normalized to   =Fo  iF„i, where Fo =—2np/3
+                                                         is the free energy of the normal state electron gas at zero
+                     0. 0                                  temperature.  At low temperature,  F„decreases as the
+                       0. 0     0. I
+                                5  ~
+                                       1. I
+                                        0               temperature  rises due to the increase in entropy S. The
+                       Superfluid velocity v, /v„            &ee energy of the normal state is also independent of the
+                                                         superfluid flow velocity q, since A(q) =0in the normal
+                                                         state. 0.                                        Thus, the &ee energy of adrifting superBuid is 8                                  being compared to that of astationary normal electron
+                                                         gas.
+                                                           The drifting superBuid still maintains alower &ee en-
+                                                         ergy than the stationary normal state for all Bow veloc-
+                                                         ities where the pairing potential A(q) exists. Our com-
+                                                         putation is therefore internally consistent. Figure 5 also
+                                                         shows that the &ee energy F, has adiscontinuous jump
+                                                         at the phase boundary for T =0, indicating afirst order
+                                                         phase transition. F, smoothly approaches F„as the su-
+                                                         perBuid velocity increases for any finite temperature  T,
+                    0. 0                                  so that the phase transition is second order at any finite
+                      0. 0     0. 5      1. 0               temperature.
+                       Superfluid velocity v /v,
+
+          FIG. 4. (a) Particle current II(q, T) and (b) electri-                 V. CONCLUSIONS cal current Icf(q, T) versus superfluid velocity hq/m, calcu-
+         lated using the self-consistent pairing potential b, (q, T) from
+         Fig. 3. The critical currents                             We are                             have solved the Bogoliubov —de Gennes equations still Iq =(2/s')(eA/h) and
+         If =(2/s')(4/h) for zero temperature,  but are             self-consistently for aone-dimensional  superconductor  in degraded at
+         a6nite temperature.                                  the presence of superBuid Bow. Using the resulting self-
+                                                         consistent order parameter, we have computed the elec-
+                                                         trical current, quasiparticle current, and Helmholtz &ee again remains larger than the electrical current Bow Jq
+         for all temperatures.                                 energy subject to the superBuid Bow. The calculation
+                                                         confirms that coupled electrons and time-reversed  elec-
+                                                         trons in asuperconductor  "depair" at acritical
+                IV. HELMHOLTZ FREE ENERGY             =                                  velocity
+                                                         v~  b/p~.
+
+           For the superconducting  state to persist, the Helmholtz
+         &ee energy F=U —TS under asuperBuid Bow must
+         be less than that of the normal state. If not, the &ee
+         energy constraint  will determine  the phase boundary,               -1. 00
+         rather than Eq. (21). The expectation value of the inter-
+         nal energy Uwe obtain directly &om the second quan-
+         tized Hamiltonian  'R, g of de Gennes.  By computing
+         U =('R, g), we find
+
+               ~= ) .fE f                                        -1. ca    01
+
+                            l ~a(*) I'&*
+
+                   — ):(' — f~)a f"~(*)l*~*       (22)               -1. 02 0. 0     0. 5     1. 0l
+                                                                        Superfluid velocity v, /v,
+         Equation (22) is evaluated at afixed superfluid flow ve-
+         locity q. The energies Es are given in Eq. (7). Sis the     FIG. 5. Helmholtz free energy E„(T) of the normal state
+         usual entropy of independent  Fermi particles,            (dashed line)and F, (q, T) for the superconducting state (solid
+                                                        line), calculated using the self-consistent  pairing potential
+             S/I:~ = ) .fs l— n ff +(1 —fs) ln(1 —fs)           A(q, T) from Fig. 3. The phase transition is Brat order at
+                       I                      j .   (23)   T =0, and second order at any 6nite temperature.         49                CRITICAL CURRENT OF A ONE-DIMENSIONAL SUPERCONDUCTOR               6845
+
+           The idea of asuper8uid depairing velocity, originated       Q(z) =e ) .(f l~(z) I'+ (1 — f)Iv (z) I')   (A9) by Landau in the 1940s, qualitatively  explains the "dis-
+         cretization" of the critical current carried by a one-
+         dimensional  superconductor  to (2/w)(eb, /5). The nu-   and the electrical current Jq is identified as
+         merical factor of (2/n. )is easily understood by noting
+         that all the quasiparticles are drifting at the Landau de-      Jq(z) = )e   (f„J„„(z) — —[1  f„] J„(z)) .  (A10) pairing velocity on the critical current phase boundary.
+
+                                                        Note that Eq. (A8) has anew source term on the right- ACKNOWLEDGMENTS               hand side. However, if the pairing potential b, (z) obeys
+                                                        the self-consistency condition Eq. (18), namely,
+           We thank Terry Orlando and Erkan Tekman for useful
+         comments and discussions. We gratefully acknowledge fi-         &(z) = Ial). u (*)v. '(z)(1 —2f-)      (A11) nancial support from the David and Lucile Packard Foun-
+         dation.
+                                                        we can write
+              APPENDIX: CONSERVATION LAWS
+                                                        — ) S„(1 —2 f„) =— ) Im[b, (z)u„'(z) v„(z) (1 —2 f„)] The BdG Eqs. (3) imply the conservation laws x2
+
+
+                         +V'J~ =S„/2                                 2 (A1)                      Im[b, (z)b, '(z)] =0 .   (A12)
+
+         and                                            Therefore, if the self-consistency  condition Eq. (18) is
+                                                        satis6ed, there is aconserved electrical current given by (A2)   Eq. (A10). We have also obtained Eqs. (A8) — (A10) by
+         where the "source term" 8„                       constructing the conservation laws &om the second quan- is                       tized Hamiltonian of de Gennes. However, we have not
+                 S„(z) =—4                               been able to derive Eqs. „Im[u„'(z)A(z)v„(z)]                               (A6) and (A7) .                                             by this method.
+                                                         A possible alternate de6nition of the electrical current
+                                                        is found by xnultiplying both Eq. (Al) and Eq. (A2) by We wish to use Eqs. (Al) and (A2) to construct one   the Fermi factor fand subtracting, yielding the conser- conservation law for the quasiparticle current J~ of the   vation law form
+                      —8 P+ V'                                      —t      Jy —— 0             (A4)                 Q'+ V Jq ——S' .t                         (A13)
+
+         and a
+         J    second conservation law for the electrical current    Here the possible electrical charge is with
+
+                      —                                          e): Q+V                                          f-(lu-(z) I' —lv-(z) I') Jq =0.                        Q'(z) =                           (A14)
+                       t                         (A5)
+
+           We obtain Eq. (A4) by multiplying both Eq. (Al) and                       is
+         Eq. (A2) by the Fermi factor f                     and the electrical current
+                                   and adding, yielding a
+         quasiparticle density Pof                                Jq(*) = ). f (J. (*)+ J. .(*))
+               P(*) = ). f-(lu-(z)l'+ lv-(z)I')       (A6)
+                                                        with asource term
+         and aquasiparticle current J~, where                              S'(z) = e) f„S„.       (A16)
+                Jx (z) = ) .f-(J-. (z) — J-. (z) ).      (A7)
+                                                        Equations (A14) — (A16) are summed over the electron- To obtain Eq. (A5), we multiply Eq. (Al) by f, Eq. (A2)   like branch.
+         by (1 — f), and add to find                           Although the current Jq(z) is appealing from the view-
+
+              —8                                       point of the conservation laws discussed in Refs. 12 —14,
+                Q+V. Jq= ——e
+                              ) S„(1 —2f ).           the source term S'(z) is not obviously zero unless S„= 0 Bt                                (A8)   for all n. Therefore, Jq(z) might not be aconserved
+                                                       electrical current in general. In this paper, however, we In Eq. (A8) the electrical charge density Qis           indeed have S„= 0for all n, xnaking Eq. (A15} apossible         6846                                    PHILIP F. BAGWELL
+
+         candidate for the electrical current. However, Eq. (A15)   summation  over wave numbers, making it an attractive
+         is very sensitive to which branch of the dispersion
+                                                   =law is   choice for the electrical current. For the actual numeri-
+         chosen to carry out the P&. [For example, Jq(x)  0 if   cal computations  in Figs. 2 and 4 there is no qualitative
+         the +branch is chosen at zero temperature. ] Further, the    difference in the dependence  of the currents Jg(x) and
+         current Jq(x) from Eq. (10) seems to be independent  of   Jq(x) on the superfluid flow; however, Jq(x) is slightly
+         the branch of the dispersion law chosen to carry out the    larger than J&(x).
+
+
+
+
+
+
+
+           J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Phys. Rev.     The plane waves in Eq. (A17) describe the center of mass
+            104, 1189 (1957).                                   drift motion, while the sine wave describes the relative mo-
+           L. Landau, J. Phys. USSR, 5, 71 (1941). See Sec. 4.         tion of the pair. The relative motion of the pair, describing
+           P. G. de Gennes, Superconductivity  of Metals and ALloys     its internal structure, is important to the depairing argu-
+            (Addison-Wesley, New York, 1989). See p. 144.             ment. If the pair drifts too rapidly, so that q is large, the
+           M. Tinkham, Introduction to Superconductivity  (McGraw-     sine wave (at aBxed position r) will change sign over the
+           Hill, New York, 1975). See p. 261.
+           J.                                                pairing time scale t =5/b, .Because of this destructive
+             Bardeen, Rev. Mod. Phys. 34, 667 (1962).               interference, we then cannot really say apair exists. The
+           K. T. Rogers, Ph. D. thesis, University of Illinois, 1960.        approximate condition for destruction of the pair then be-
+           R. P. Feynman, Statistical Mechanics (Benjamin, Reading,      comes
+           MA, 1972).
+           The Slater determinant  for the free electron two-particle
+           wave function, built from the basis states (k+ q) and —( k+                  1 =k(hq/m)(h/b, ),             (c)
+           q), can be written
+
+            i r    .X1 t1    i —       s(h /2~)(k+q) (tl /~) s( —Z2 t2~  es(~+q)~1 — e              e  ~+q)~2      the same as Eq. (1) when k =ks.
+                           —                                C. W. J. Beenakker and H. van Houten, Phys. Rev. Lett. Xe ~(a /2~)( —a+q) (tg/&) ez(I+q)~2           66, 3056 (1991). Xe -i(h /2~)(&+q) (tg/&) s( — e  &+q)*1           P. F. -'('/2~)(                               Bagwell, Phys. Rev. B46, 12573 (1992). — Xe        I +q)'(t& /~)           (a)     C. J. Muller, J. M. van Ruitenbeck, and L. J. de Jongh, Phys.
+                                                             Rev. Lett. 69, 140 (1992). Equivalently,  in center of mass coordinates (2R =xz +     R. A. Riedel and P. F. Bagwell, Phys. Rev. B48, 15198 xq, 2T =tq +ts) and relative coordinates (r =  —xq  x2, t =
+             —                                             (1993).
+           tq  t2), this two-particle wave function is                 W. N. Mathews, Jr. , Phys. Status Solidi B90, 327 (1978).
+                                                             G. E. Blonder, M. Tinkham, and T. M. Klapwijk, Phys. Rev. y(R T . rt)  2$e'v& — '(s'I2~)(A" +~')(7'ls)           B25, 4515 (1982).
+                             x sin[k(r —(hq/m)t)j .              E. Tekman (private communication).

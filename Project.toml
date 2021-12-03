@@ -1,0 +1,13 @@
+[deps]
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+Dash = "1b08a953-4be3-4667-9a23-3db579824955"
+DashCoreComponents = "1b08a953-4be3-4667-9a23-9da06441d987"
+DashHtmlComponents = "1b08a953-4be3-4667-9a23-24100242a84a"
+DashTable = "1b08a953-4be3-4667-9a23-f0e2ba4deb9a"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+PDFIO = "4d0d745f-9d9a-592e-8d18-1ad8a0f42b92"
+Pitaya = "0b12f483-aaff-4a42-bf4f-5a3345f2360f"
+TerminalUserInterfaces = "408767e4-586b-40c7-9657-f9758988469a"
