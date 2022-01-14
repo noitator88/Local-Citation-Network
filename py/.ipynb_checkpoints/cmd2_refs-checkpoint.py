@@ -16,6 +16,7 @@ EMPTY_RESULT = {
     "doi": ""
 }
 
+
 def crossref_query_title(title):
     api_url = "https://api.crossref.org/works?"
     params = {"rows": "5", "query.bibliographic": title}
@@ -73,6 +74,8 @@ class REPL(Cmd):
                 print(w1['reference'][iw])
 
         print(ref_lst)
+
+    def do_
 
 if __name__ == '__main__':
     app = REPL()

@@ -11,3 +11,12 @@ This project is open source (GPL-3). I don't have much more time to work on this
 ## FAQ
 
 For more details check out the FAQs in the [web app](https://timwoelfle.github.io/Local-Citation-Network/)!
+
+## neo4j 
+
+Username
+neo4j
+
+Generated password
+h_WdC6TIqAeCbwRMnvPDpvnGfsdT5XjuTReUkACq4FA
+
